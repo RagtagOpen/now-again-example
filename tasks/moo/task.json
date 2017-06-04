@@ -1,0 +1,7 @@
+{
+  "schedule": "every hour",
+  "input": "cron cow!",
+  "webhook": {
+    "env": "MOO_WEBHOOK"
+  }
+}

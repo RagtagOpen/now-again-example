@@ -1,0 +1,9 @@
+{
+  "name": "now-again-example",
+  "version": "0.0.1",
+  "description": "Example now-again project",
+  "main": "index.js",
+  "repository": "git@github.com:jkriss/now-again-example.git",
+  "author": "Jesse Kriss <jesse@jklabs.net>",
+  "license": "MIT"
+}
