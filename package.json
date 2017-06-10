@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:jkriss/now-again-example.git",
   "author": "Jesse Kriss <jesse@jklabs.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "now-again": "github:ragtagopen/now-again"
+  }
 }
