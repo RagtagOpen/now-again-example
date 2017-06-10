@@ -8,5 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "now-again": "github:ragtagopen/now-again"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "setup": "now-again add-token-secret",
+    "deploy": "now deploy -e NOW_TOKEN=@now-token"
   }
 }
