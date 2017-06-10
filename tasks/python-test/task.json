@@ -1,0 +1,7 @@
+{
+  "schedule": "every 90 minutes",
+  "input": "hi from python!",
+  "webhook": {
+    "env": "PYTHON_TEST_WEBHOOK"
+  }
+}
